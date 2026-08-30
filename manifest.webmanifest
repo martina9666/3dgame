@@ -1,0 +1,14 @@
+{
+  "name": "Taverna Maledetta 3D",
+  "short_name": "Taverna 3D",
+  "description": "Taverna Maledetta — gioco 3D fantasy giocabile su iPad.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#080402",
+  "theme_color": "#140b06",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
